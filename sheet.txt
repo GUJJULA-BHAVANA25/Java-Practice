@@ -1,0 +1,1 @@
+pointers not used in java due to security purposes
